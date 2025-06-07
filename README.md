@@ -9,4 +9,4 @@ Requires scikit-learn >= 1.5
 
 See the [example](example.ipynb) for the code to get such results:
 
-[!image](example.png)
+![image](example.png)
